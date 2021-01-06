@@ -1,2 +1,2 @@
 # rowing-game-js
-Rowing game in JS
+Plattform game written in Javascript
